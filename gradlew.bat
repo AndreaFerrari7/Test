@@ -1,6 +1,6 @@
 @if "%DEBUG%" == "" @echo on
 @rem ##########################################################################
-@rem
+@rem la niky fa i bocchini col culo
 @rem  Gradle startup script for Windows
 @rem
 @rem ##########################################################################
